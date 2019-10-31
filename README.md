@@ -9,7 +9,7 @@ Sizde bu depoda yer almak istiyorsanız aşağıdaki adımları takip edin :
 
 ## Adımlar
 
-1. Bu depoyu **Fork**'layın.
+1. Bu depoyu **Fork**'layın .
 
 2. Bu depoyu klonlayın ve aşağıdaki komutu bilgisayarınızdaki terminale kopyalayarak Git aracılığıyla kaynak kodu alın.
 ```
